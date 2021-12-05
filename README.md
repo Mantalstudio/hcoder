@@ -5,14 +5,14 @@ This is a python base script from which you can hack or clone any person's faceb
 
 # Installation
 
-termux-setup-storage
-pkg update && pkg upgrade -y
-pkg install python2 git -y
-git clone https://github.com/Hamzahash/hcoder.git
+termux-setup-storage<br>
+pkg update && pkg upgrade -y<br>
+pkg install python2 git -y<br>
+git clone https://github.com/Hamzahash/hcoder.git<br>
 
 # How to use
 
-cd hcoder
+cd hcoder<br>
 python2 hcoder.py
 
 
